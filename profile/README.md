@@ -29,7 +29,3 @@
 - **FastAPI**: Python 기반 REST API 서버
 - **MongoDB**: 유연한 NoSQL 데이터 저장소
 - **JWT 인증**: 로그인/회원가입 보안 처리
-
-## 디렉터리 구조 🗂️
-
-
